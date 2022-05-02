@@ -2,6 +2,6 @@
 
 ### Installation
 ```
-npm i algovera-hub-cli
+git clone https://github.com/AlgoveraAI/Hub-CLI.git
 npm start
 ```
